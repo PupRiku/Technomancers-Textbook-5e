@@ -1,0 +1,21 @@
+{
+  "name": "technomancerstextbook5e",
+  "title": "Technomancer's Textbook for D&D 5e System",
+  "description": "Technomancer's Textbook for D&D 5e System",
+  "version": "1.14.1",
+  "templateVersion": 2,
+  "author": "Chris Diorio",
+  "minimumCoreVersion": "0.7.7",
+  "scripts": [],
+  "esmodules": [],
+  "styles": [],
+  "packs": [],
+  "languages": [],
+  "socket": false,
+  "initiative": "1d20 + @characteristics.dexterity.mod",
+  "gridDistance": 5,
+  "gridUnits": "ft",
+  "url": "https://github.com/PupRiku/Technomancers-Textbook-5e",
+  "manifest": "",
+  "download": ""
+}
